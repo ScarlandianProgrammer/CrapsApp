@@ -4,4 +4,9 @@
     <string name="nav_open">Open</string>
     <string name="nav_close">Close</string>
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="rules_string">
+        Made anytime after the first roll when a shooter has a point to make.
+        You win on a 7 or 11 and lose on a 2, 3 or 12. Any other number
+        becomes your “come point” and must be repeated for you to win before a 7 rolls.
+    </string>
 </resources>
