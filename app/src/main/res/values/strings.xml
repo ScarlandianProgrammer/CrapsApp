@@ -12,4 +12,8 @@
     <string name="points_display">Points: %1$s</string>
     <string name="roll_display">Roll: %1$s</string>
     <string name="round_over_display">Round over!</string>
+    <string name="roll_dice_display">Roll Dice</string>
+    <string name="dice_display">Dice</string>
+    <string name="points_default_display">Points</string>
+    <string name="new_game_display">New Game</string>
 </resources>
